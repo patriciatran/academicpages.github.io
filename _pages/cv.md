@@ -24,17 +24,12 @@ Skills
 * Field Work: Limnology and Botany
 * Lab Work: Microbiology, Chemistry
 
-Publications
+
+Selected Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Natural Sciences and Engineering Research Council (NSERC) of Canada CGS-D3 Alexander Graham Bell PhD Fellowship (2019-)
+* NSERC-CREATE EcoLac M.Sc. Fellowship, 2016-2018
+* Fonds de Recherche Quebecois Nature et Technologie (FRQNT) M.Sc. Fellowship (2017-2018)
   
 Teaching
 ======
