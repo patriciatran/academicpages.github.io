@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Environmental Sciences, McGill University, 2016
+* Graduate Certificate in Bioinformatics, McGill University, 2016
+* M.S. in Biology, Concordia University, 2018
+* Ph.D in Freshwater and Marine Science, University of Wisconsin-Madison (Expected 2023)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R, Python
+* Bash, Unix, Shell scripting
+* Server management (Linux)
+* Field Work: Limnology and Botany
+* Lab Work: Microbiology, Chemistry
 
 Publications
 ======
@@ -50,10 +38,5 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* BIOL 335 (Biodiversity and Ecosystems), McGill University, 2016 and 2017
+
