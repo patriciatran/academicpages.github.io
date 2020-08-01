@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+
 Find me on [Google Scholar](https://scholar.google.com/citations?user=NVhtx1YAAAAJ&hl=en). Please contact me by e-mail (link in sidebar) if you cannot access the article via your institution, I would be happy to send a PDF.
 
 
