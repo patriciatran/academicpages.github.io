@@ -30,9 +30,9 @@ Skills
 
 Selected Awards
 ======
-* Natural Sciences and Engineering Research Council (NSERC) of Canada CGS-D3 Alexander Graham Bell PhD Fellowship (2019-)
-* NSERC-CREATE EcoLac M.Sc. Fellowship, 2016-2018
-* Fonds de Recherche Quebecois Nature et Technologie (FRQNT) M.Sc. Fellowship (2017-2018)
+* Natural Sciences and Engineering Research Council (NSERC) of Canada [CGS-D3 Alexander Graham Bell PhD Fellowship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSD-BESCD_eng.asp) (2019-2022)
+* [NSERC-CREATE EcoLac](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=4132) M.Sc. Fellowship, 2016-2018
+* [Fonds de Recherche Quebecois Nature et Technologie (FRQNT) M.Sc. Fellowship](http://www.frqnt.gouv.qc.ca/en/bourses-et-subventions/consulter-les-programmes-remplir-une-demande/bourse/programs-of-scholarships-of-2supndsup-and-3suprdsup-cycles-pmx5tfyt1592833344678) (2017-2018)
   
 Teaching
 ======
