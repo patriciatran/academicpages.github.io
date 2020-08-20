@@ -16,13 +16,6 @@ Education
 * Graduate Certificate in Bioinformatics, McGill University, 2016
 * B.S. in Environmental Sciences, McGill University, 2016
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-See Publications Tab Above.
-
 Skills
 ======
 * R, Python
